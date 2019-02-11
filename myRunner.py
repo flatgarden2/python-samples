@@ -6,3 +6,4 @@ Created on Feb 11, 2019
 
 if __name__ == '__main__':
     print("print it well %s,%s" %(3+4,"ok"))
+    print("ok new")
